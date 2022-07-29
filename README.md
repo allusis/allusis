@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&fontAlignY=35&animation=fadeIn&text=Tony%20Montemorano&fontSize=80&desc=A%20frontal-nerdist%20with%20an%20insatiable%20love%20for%20the%20web.&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&fontAlignY=35&animation=fadeIn&text=Tony%20Montemorano&fontSize=80&desc=A%20frontal-nerdist%20with%20an%20insatiable%20love%20for%20the%20web.&descAlignY=55)
 - 🔭 I’m currently working on [Frontal Nerdity](https://frontalnerdity.com)
 
 - 🌱 I’m currently learning **Vue**
