@@ -1,16 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&fontAlignY=35&animation=fadeIn&text=Tony%20Montemorano&fontSize=80&desc=A%20frontal-nerdist%20with%20an%20insatiable%20love%20for%20the%20web.&descAlignY=55)
-- 🔭 I’m currently working on [Frontal Nerdity](https://frontalnerdity.com)
 
-- 🌱 I’m currently learning **Vue**
+🔭 I’m currently working at [BrainGu](https://braingu.com)
 
-- 👯 I’m looking to collaborate on **UX improvements for decentralized web applications**
+🌱 I’m currently learning **Vue**
 
-- 💬 Ask me about **Design systems, coffee, military planes**
+👯 I’m looking to collaborate on **UX improvements for decentralized web applications**
 
-- 📫 How to reach me **tony@allusis.net**
+💬 Ask me about **Design systems, coffee, CSS**
 
-- 📄 Know about my experiences [https://tonymontemorano.com](https://tonymontemorano.com)
+📫 How to reach me **tony@allusis.net**
+
+📄 Know about my experiences [https://tonymontemorano.com](https://tonymontemorano.com)
+
 <br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/allusis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="allusis" height="30" width="40" /></a>
