@@ -8,9 +8,9 @@
 
 💬 Ask me about **Design systems, coffee, CSS**
 
-📫 How to reach me **tony@allusis.net**
+📫 Reach me at **tony@allusis.net**
 
-📄 Know about my experiences [https://tonymontemorano.com](https://tonymontemorano.com)
+📄 Read about my experiences [https://tonymontemorano.com](https://tonymontemorano.com)
 
 <br/>
 
