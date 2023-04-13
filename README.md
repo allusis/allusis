@@ -19,8 +19,6 @@
 <a href="https://codepen.io/allusis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="allusis" height="30" width="40" /></a>
 <a href="https://twitter.com/allusis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allusis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/allusis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allusis" height="30" width="40" /></a>
-<a href="https://medium.com/@allusis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@allusis" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/allusis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="allusis" height="30" width="40" /></a>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
