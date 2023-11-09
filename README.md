@@ -2,15 +2,15 @@
 
 🔭 I’m currently working at [BrainGu](https://braingu.com)
 
-🌱 I’m currently learning **Vue**
-
-👯 I’m looking to collaborate on **UX improvements for decentralized web applications**
+🌱 I’m currently learning **Vue**, **Nunjucks** and **Eleventy**
 
 💬 Ask me about **Design systems, coffee, CSS**
 
 📫 Reach me at **tony@allusis.net**
 
 📄 Read about my experiences [https://tonymontemorano.com](https://tonymontemorano.com)
+
+📄 See some of my experiences [https://frontalnerdity.com](https://frontalnerdity.com)
 
 <br/>
 
